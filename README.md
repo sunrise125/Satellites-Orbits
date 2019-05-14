@@ -1,7 +1,8 @@
 # Satellites-Orbits
-What this package performs can be rallied with the abstract of
-of the attached PDF
-# Abstract 
+What this package performs is better detailed in the attached PDF,
+as shortly condensed in its abstract.
+
+# Precise Orbit Determination of Satellites through 3 Observations (Gauss method) 
 Since Jan.1,2009 any computation involving Earth's gravitational field 
 should be performed by means of the new precession-nutation model
 and this paper presents how to determine the orbital elements
