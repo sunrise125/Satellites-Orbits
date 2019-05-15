@@ -31,3 +31,28 @@ At startup is asked to input the datafile, i.e. ISSback.dat, then push enter and
          True anomaly=    303.54018063104337       degs
   ------------------------------------------------------------------------
 </PRE>
+
+### How to build the datafile
+As per comments inside <i>ISSback.dat</i>
+<PRE>
+33
+15.0650  37.0328  370.0
+2019 4 27
+04 17 50
+17 10 53.03  +41 52 18.2
+04 18 00
+17 34 19.17  +50 00 45.9
+04 18 10
+18 07 43.22  +57 56 13.4
+------------------------------
+Row1: 33 (unchanged)
+Row2: East Longitude (degs), North Latitude (degs), Height (m. ASL)
+Row3: Date (year, month, day)
+Row4: Time 1st obs. [HHMMSS]
+Row5: (RA,Dec) [HHMMSS.ss] [ddmmss.s]
+Row6: Time 2nd obs. [HHMMSS]
+Row7: (RA,Dec) [HHMMSS.ss] [ddmmss.s]
+Row8: Time 3rd obs. [HHMMSS]
+Row9: (RA,Dec) [HHMMSS.ss] [ddmmss.s]
+------------------------------
+</PRE>
