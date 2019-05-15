@@ -32,7 +32,7 @@ At startup is asked to input the datafile, i.e. ISSback.dat, then push enter and
   ------------------------------------------------------------------------
 </PRE>
 
-### How to build the datafile
+### Datafile building
 As per comments inside <i>ISSback.dat</i>
 <PRE>
 33
