@@ -7,3 +7,15 @@
 17 34 19.17  +50 00 45.9
 04 18 10
 18 07 43.22  +57 56 13.4
+------------------------------
+Row1: 33 (unchanged)
+Row2: East Longitude (degs), North Latitude (degs), Height (m. ASL)
+Row3: Date (year, month, day)
+Row4: Time 1st obs. [HHMMSS]
+Row5: (RA,Dec) [HHMMSS.ss] [ddmmss.s]
+Row6: Time 2nd obs. [HHMMSS]
+Row7: (RA,Dec) [HHMMSS.ss] [ddmmss.s]
+Row8: Time 3rd obs. [HHMMSS]
+Row9: (RA,Dec) [HHMMSS.ss] [ddmmss.s]
+------------------------------
+
