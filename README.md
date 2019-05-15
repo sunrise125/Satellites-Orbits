@@ -6,4 +6,4 @@ Since Jan.1,2009 any computation involving Earth gravitational field should be p
 IERS and strongly interpolated to have its parameters precise at each time of the three observations. 
 
 The main program <i>orbitdet.f90</i> is written in Fortran90 and uses  <b>SOFA</b> subroutines coming from 
-here`<link>` : <(http://www.iausofa.org>
+here`<link>` : <(http://www.iausofa.org>)
