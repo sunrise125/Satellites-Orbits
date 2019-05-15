@@ -18,8 +18,7 @@ The main program <i>orbit6.f90</i> is written in Fortran90 and uses  <b>SOFA</b>
 
 ### Running orbit6.exe
 Executable already included in the package, along with two ancillary files .dll to provide functionality under any Windows system.
-At startup is asked to input the datafile, i.e. ISSback.dat, then push enter and results appear on the screen, as shown in <i>ISSback-output.txt</i>
-Computed orbital elements are resumed underneath
+At startup is asked to input the datafile, i.e. ISSback.dat, then push enter and results appear on the screen, as shown in <i>ISSback-output.txt</i>. Computed orbital elements are resumed underneath
 <PRE>
   ---------- Output Satellite Orbital Elements ---------------------------
       Semi-major axis=    6796.5726182190183       km
