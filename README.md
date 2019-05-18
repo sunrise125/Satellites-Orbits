@@ -56,3 +56,10 @@ Row8: Time 3rd obs. [HHMMSS]
 Row9: (RA,Dec) [HHMMSS.ss] [ddmmss.s]
 ------------------------------
 </PRE>
+
+### Added support (TLE conversion)
+Zipped file <i>SAT_ORBIT.rar</i> is structured in some subfolders, like /IMPORT and /OUTPUT, to store files before and after the procession by the Windows system batch <i>sat_orbit.bat</i> saved in the main folder.
+#### Example (Latest Launches Sats)
+<i>latest.txt</i> is the given datafile and should be tranferred into /INPUT, then click in the batch and digit what the mask menu says, A-latest.txt.
+In few seconds the conversion is performed and the expanded file stored in /OUTPUT subfolder, being named <i>Ele-Orb-latest.txt</i>
+
