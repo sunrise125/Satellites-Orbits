@@ -8,6 +8,3 @@ http://www.satobs.org/seesat/May-2019/0165.html
 
 ### 3) Highly precise python code to compute sat positions 
 http://www.satobs.org/seesat/May-2019/0175.html
-
-
-
