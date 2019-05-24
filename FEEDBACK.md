@@ -9,9 +9,11 @@ http://www.satobs.org/seesat/May-2019/0165.html
 ### 3) Highly precise python code to compute sat positions 
 http://www.satobs.org/seesat/May-2019/0175.html
 
-#### (#3 further discussions)
+#### (#3 further discussion)
 http://www.satobs.org/seesat/May-2019/0179.html
 
 ### 4) ISS Video Capture
 http://www.satobs.org/seesat/May-2019/0186.html
 
+#### (#4 further discussion)
+http://www.satobs.org/seesat/May-2019/0192.html
