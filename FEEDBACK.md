@@ -17,3 +17,6 @@ http://www.satobs.org/seesat/May-2019/0186.html
 
 #### (#4 further discussion)
 http://www.satobs.org/seesat/May-2019/0192.html
+
+### 5) Angle btw. two position vectors (ECI frame)
+http://www.satobs.org/seesat/May-2019/0196.html
