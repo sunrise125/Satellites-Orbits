@@ -23,3 +23,6 @@ http://www.satobs.org/seesat/May-2019/0196.html
 
 ### 6) Starlink orbital elements
 http://www.satobs.org/seesat/May-2019/0212.html
+
+### (#6 further discussion)
+http://www.satobs.org/seesat/May-2019/0212.html
