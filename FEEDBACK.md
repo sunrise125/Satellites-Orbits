@@ -27,5 +27,5 @@ http://www.satobs.org/seesat/May-2019/0212.html
 ### (#6 further discussion)
 http://www.satobs.org/seesat/May-2019/0212.html
 
-### 6 Prediction Starlink train position)
+### 7) Prediction Starlink train position)
 http://www.satobs.org/seesat/May-2019/0238.html
