@@ -4,7 +4,7 @@ Reference is made to file starlink_29may.txt, attached in this folder and downlo
 
 Calculations have been performed by means of Pascal code named SATENG3.PAS (here attached) through SGP Units coming from the public domain software http://celestrak.com/software/vallado-sw.php
 
-The processed position of each sat is shown in 111.txt, and here analyzed with the help of some of them. There is a strange alternance <i>Visible/NOT-Visible</i> which is <b>discrepant</b> with the observed objects, naming Object A having h= -19.4 degs and Object E h= 48.9, visible.
+The processed position of each sat is shown in 111.txt, and here analyzed with the help of a couple of them. There is a strange alternance <i>Visible/NOT-Visible</i> which is <b>discrepant</b> with the observed objects, naming Object A having h= -19.4 degs and Object E h= 48.9, visible.
 <PRE>
  Observer Coords. (lat,lon,H)= 37.0328  15.0650  370.0
 OBJECT A                
